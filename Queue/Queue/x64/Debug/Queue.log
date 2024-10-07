@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\Jehadov\Desktop\c++_data_structure\Queue\Queue\Source.cpp(117,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Jehadov\Desktop\c++_data_structure\Queue\Queue\Source.cpp(105,13): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  C:\Users\Jehadov\Desktop\c++_data_structure\Queue\Queue\Source.cpp(105,13):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Jehadov\Desktop\c++_data_structure\Queue\Queue\Source.cpp(118,24):
+  	see reference to class template instantiation 'arrayqueueType<char>' being compiled
+  	C:\Users\Jehadov\Desktop\c++_data_structure\Queue\Queue\Source.cpp(97,6):
+  	while compiling class template member function 'int arrayqueueType<char>::searchqueu(t)'
+          with
+          [
+              t=char
+          ]
+  		C:\Users\Jehadov\Desktop\c++_data_structure\Queue\Queue\Source.cpp(139,52):
+  		see the first reference to 'arrayqueueType<char>::searchqueu' in 'main'
+  
+C:\Users\Jehadov\Desktop\c++_data_structure\Queue\Queue\Source.cpp(71,1): warning C4715: 'arrayqueueType<char>::frontqueue': not all control paths return a value
+C:\Users\Jehadov\Desktop\c++_data_structure\Queue\Queue\Source.cpp(82,1): warning C4715: 'arrayqueueType<char>::lastqueue': not all control paths return a value
+C:\Users\Jehadov\Desktop\c++_data_structure\Queue\Queue\Source.cpp(114,1): warning C4715: 'arrayqueueType<char>::searchqueu': not all control paths return a value
+  Queue.vcxproj -> C:\Users\Jehadov\Desktop\c++_data_structure\Queue\x64\Debug\Queue.exe

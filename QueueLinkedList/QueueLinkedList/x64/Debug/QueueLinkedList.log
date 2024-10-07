@@ -1,0 +1,8 @@
+﻿  QueueLinkedList.cpp
+C:\Users\Jehadov\Desktop\c++_data_structure\QueueLinkedList\QueueLinkedList\QueueLinkedList.cpp(6,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Jehadov\Desktop\c++_data_structure\QueueLinkedList\QueueLinkedList\QueueLinkedList.cpp(27,9): warning C4551: function call missing argument list
+  Source.cpp
+C:\Users\Jehadov\Desktop\c++_data_structure\QueueLinkedList\QueueLinkedList\Source.cpp(56,10): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Jehadov\Desktop\c++_data_structure\QueueLinkedList\QueueLinkedList\Source.cpp(57,9): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+  QueueLinkedList.vcxproj -> C:\Users\Jehadov\Desktop\c++_data_structure\QueueLinkedList\x64\Debug\QueueLinkedList.exe
