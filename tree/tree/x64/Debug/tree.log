@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Jehadov\Desktop\c++_data_structure\tree\tree\main.cpp(6,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Source.cpp
+  Generating Code...
+  tree.vcxproj -> C:\Users\Jehadov\Desktop\c++_data_structure\tree\x64\Debug\tree.exe

@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Jehadov\source\repos\tree\tree\main.cpp(6,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Source.cpp
+C:\Users\Jehadov\source\repos\tree\tree\Source.cpp(83,2): error C2672: 'find': no matching overloaded function found
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(6019,31):
+      could be '_InIt std::find(_InIt,const _InIt,const _Ty &)'
+          C:\Users\Jehadov\source\repos\tree\tree\Source.cpp(83,2):
+          '_InIt std::find(_InIt,const _InIt,const _Ty &)': expects 3 arguments - 2 provided
+  
